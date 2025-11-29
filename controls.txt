@@ -1,0 +1,15 @@
+SPACE = Start the game
+P = Pause the game
+R = Restart the game
+    - Restarting after victory keeps the score and lives
+    - Otherwise, the whole game is reset
+
+RIGHT, LEFT = Move the paddles
+
+1 = Perspective camera
+2 = Top-down camera
+3 = Free camera
+    - LEFT CLICK = Rotate camera
+    - RIGHT CLICK = Move camera
+    - MOUSE WHEEL = Zoom
+    - This was mostly meant for testing and can be used to move outside of boundaries. It is not really meant for gameplay.

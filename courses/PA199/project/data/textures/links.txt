@@ -1,0 +1,4 @@
+fabric: https://polyhaven.com/a/fabric_pattern_07
+rock: https://polyhaven.com/a/mud_cracked_dry_03
+sand: https://polyhaven.com/a/dry_ground_rocks
+skybox: https://learnopengl.com/Advanced-OpenGL/Cubemaps
